@@ -1,0 +1,1 @@
+javascript:(()=>{                    if (!document.querySelector(".buzzbtn").attributes.hasOwnProperty("disabled")) {                        document.querySelector(".buzzbtn").click();                        go.guess({                            text: _o.answer,                            done: true                        });                    }                })();
