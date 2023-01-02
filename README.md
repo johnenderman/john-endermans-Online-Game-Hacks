@@ -6,4 +6,5 @@ A bunch of bookmarklet game hacks for school, work, or anything else. Free to be
 - name it whatever you want
 - paste the code into where it says "url"
 - press save
+- click it while you are on the page
 # Happy cheating!
