@@ -1,1 +1,4 @@
 javascript:alert(`Made by john enderman#2424\rSolution%20is:%20${JSON.parse(localStorage.gameState).solution}%60)
+
+
+only works on wordleunlimited.org
